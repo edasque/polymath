@@ -1,4 +1,4 @@
-# Polymath
+# Polymath Awesome Lists
 
 ## Docker
 
